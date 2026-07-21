@@ -11,10 +11,11 @@ const I18N = {
     nav_about: "About", nav_products: "Products", nav_brands: "Brands",
     nav_borewell: "Borewell", nav_team: "Team", nav_contact: "Contact", nav_call: "Call Now",
     hero_eyebrow: "Chhindwara, Madhya Pradesh · Est. 2010",
-    hero_title: 'Water for every root.<br><span class="grad">Trust for every farmer.</span>',
+    hero_title: 'आपका भरोसा, हमारी पहचान <br><span class="grad">Trust for every farmer.</span>',
     hero_lead: "Pumps, pipes, drip irrigation, electricals and borewell services — 20 trusted brands under one roof, serving the fields of Chhindwara for over 15 years.",
     hero_cta_wa: "WhatsApp Enquiry", hero_cta_products: "Explore Products",
     stat_years: "Years of service", stat_brands: "Trusted brands", stat_farmers: "Farmers served",
+    hero_brands_title: "Authorised Partner Network & Dealer Portfolio",
     hero_badge_t: "Aditya Agency", hero_badge_s: "Bohta · Chand Road",
     float_a_t: "Borewell 4½″–10″", float_a_s: "Hariom Borewell",
     float_b_t: "Drip & Sprinkler", float_b_s: "Save every drop",
@@ -87,28 +88,28 @@ const I18N = {
     foot_explore: "Explore", foot_contact: "Contact", foot_visit: "Visit", foot_map: "Google Maps →",
     foot_copy: "© 2026 Aditya Agency, Chhindwara. GSTIN 23AIPPC2490B1ZV",
     foot_made: "Serving farmers since 2010",
-    
+
     // Borewell sizes additions
     bw_s1_title: "4½″ Borewell Drilling",
     bw_s1_desc: "Perfect for residential plots, small gardens, and narrow-diameter pipe systems. Economical and fast drilling.",
     bw_s1_use: "Residential & Gardens",
     bw_s1_casing: "Supreme Heavy-Duty PVC",
-    
+
     bw_s2_title: "6½″ Borewell Drilling",
     bw_s2_desc: "The standard size for agricultural tubewells and orchard farms in Chhindwara. Optimized for high-discharge farm pumps.",
     bw_s2_use: "Agricultural Farms & Orchards",
     bw_s2_casing: "Heavy-Duty Casing Pipe",
-    
+
     bw_s3_title: "8½″ Borewell Drilling",
     bw_s3_desc: "Ideal for high-capacity irrigation wells, large-scale horticulture, and multi-pump industrial water extraction.",
     bw_s3_use: "Commercial Farms & Estates",
     bw_s3_casing: "Double Casing / Mild Steel",
-    
+
     bw_s4_title: "10″ Borewell Drilling",
     bw_s4_desc: "Municipal tubewells, heavy-duty industrial setups, deep community wells, and major construction projects.",
     bw_s4_use: "Industrial & Municipal Projects",
     bw_s4_casing: "API Grade Steel / Custom PVC",
-    
+
     bw_meta_use: "Primary Use:",
     bw_meta_casing: "Casing Type:"
   },
@@ -118,10 +119,11 @@ const I18N = {
     nav_about: "हमारे बारे में", nav_products: "उत्पाद", nav_brands: "ब्रांड",
     nav_borewell: "बोरवेल", nav_team: "टीम", nav_contact: "संपर्क", nav_call: "कॉल करें",
     hero_eyebrow: "छिंदवाड़ा, मध्य प्रदेश · स्थापना 2010",
-    hero_title: 'हर जड़ तक पानी।<br><span class="grad">हर किसान का भरोसा।</span>',
+    hero_title: 'आपका भरोसा, हमारी पहचान<br><span class="grad">हर किसान का भरोसा।</span>',
     hero_lead: "पम्प, पाइप, ड्रिप सिंचाई, इलेक्ट्रिकल और बोरवेल सेवा — 20 भरोसेमंद ब्रांड एक ही छत के नीचे, 15 वर्षों से छिंदवाड़ा के खेतों की सेवा में।",
     hero_cta_wa: "व्हाट्सएप पूछताछ", hero_cta_products: "उत्पाद देखें",
     stat_years: "वर्षों की सेवा", stat_brands: "भरोसेमंद ब्रांड", stat_farmers: "संतुष्ट किसान",
+    hero_brands_title: "अधिकृत पार्टनर नेटवर्क एवं प्रमुख ब्रांड्स",
     hero_badge_t: "आदित्य एजेंसी", hero_badge_s: "बोहता · चाँद रोड",
     float_a_t: "बोरवेल 4½″–10″", float_a_s: "हरिओम बोरवेल",
     float_b_t: "ड्रिप और स्प्रिंकलर", float_b_s: "हर बूंद बचाएँ",
@@ -194,28 +196,28 @@ const I18N = {
     foot_explore: "देखें", foot_contact: "संपर्क", foot_visit: "पता", foot_map: "गूगल मैप्स →",
     foot_copy: "© 2026 आदित्य एजेंसी, छिंदवाड़ा। GSTIN 23AIPPC2490B1ZV",
     foot_made: "2010 से किसानों की सेवा में",
-    
+
     // Borewell sizes additions
     bw_s1_title: "4½″ बोरवेल ड्रिलिंग",
     bw_s1_desc: "घरेलू भूखंडों, छोटे बगीचों और संकीर्ण-व्यास पाइप प्रणालियों के लिए बिल्कुल सही। किफायती और तेज़ ड्रिलिंग।",
     bw_s1_use: "घरेलू और छोटे बगीचे",
     bw_s1_casing: "सुप्रीम हेवी-ड्यूटी पीवीसी",
-    
+
     bw_s2_title: "6½″ बोरवेल ड्रिलिंग",
     bw_s2_desc: "छिंदवाड़ा में कृषि ट्यूबवेल और बगीचों के लिए मानक आकार। उच्च-डिस्चार्ज कृषि पंपों के लिए अनुकूलित।",
     bw_s2_use: "कृषि फार्म और बागवानी",
     bw_s2_casing: "हेवी-ड्यूटी केसिंग पाइप",
-    
+
     bw_s3_title: "8½″ बोरवेल ड्रिलिंग",
     bw_s3_desc: "उच्च क्षमता वाले सिंचाई कुओं, बड़े पैमाने पर बागवानी और मल्टी-पंप औद्योगिक पानी निकालने के लिए आदर्श।",
     bw_s3_use: "व्यावसायिक फार्म और संपदा",
     bw_s3_casing: "डबल केसिंग / माइल्ड स्टील",
-    
+
     bw_s4_title: "10″ बोरवेल ड्रिलिंग",
     bw_s4_desc: "नगर पालिका ट्यूबवेल, भारी-भरकम औद्योगिक सेटअप, गहरे सामुदायिक कुएं और बड़ी निर्माण परियोजनाएं।",
     bw_s4_use: "औद्योगिक और सरकारी परियोजनाएं",
     bw_s4_casing: "एपीआई ग्रेड स्टील / कस्टम पीवीसी",
-    
+
     bw_meta_use: "मुख्य उपयोग:",
     bw_meta_casing: "केसिंग प्रकार:"
   }
@@ -234,27 +236,27 @@ let selectedBorewellSize = "s1";
 function updateBorewellDetails() {
   const dict = I18N[currentLang];
   const size = selectedBorewellSize; // "s1", "s2", "s3", "s4"
-  
+
   const titleEl = document.getElementById("bwDetailTitle");
   const descEl = document.getElementById("bwDetailDesc");
   const useEl = document.getElementById("bwDetailUse");
   const casingEl = document.getElementById("bwDetailCasing");
-  
+
   if (titleEl) titleEl.textContent = dict[`bw_${size}_title`] || "";
   if (descEl) descEl.textContent = dict[`bw_${size}_desc`] || "";
   if (useEl) useEl.textContent = dict[`bw_${size}_use`] || "";
   if (casingEl) casingEl.textContent = dict[`bw_${size}_casing`] || "";
-  
+
   // Highlight active tab
   document.querySelectorAll(".bw-tab").forEach(tab => {
     tab.classList.toggle("active", tab.dataset.size === size);
   });
-  
+
   // Update WhatsApp link message for borewell size
   const waBtn = document.getElementById("bwWaBtn");
   if (waBtn) {
     const sizeLabel = size === "s1" ? "4½″" : size === "s2" ? "6½″" : size === "s3" ? "8½″" : "10″";
-    const msg = currentLang === "hi" 
+    const msg = currentLang === "hi"
       ? `नमस्ते आदित्य एजेंसी! मैं हरिओम बोरवेल की ${sizeLabel} इंच ड्रिलिंग सेवा के बारे में पूछताछ करना चाहता हूँ।`
       : `Namaste Aditya Agency! I want to enquire about the Hariom Borewell ${sizeLabel} drilling service.`;
     waBtn.href = `https://wa.me/${WA_NUMBER}?text=${encodeURIComponent(msg)}`;
@@ -275,12 +277,12 @@ function applyLang(lang) {
     const key = el.dataset.i18nHtml;
     if (dict[key] !== undefined) el.innerHTML = dict[key];
   });
-  
+
   // Trigger borewell details update to match the language
   updateBorewellDetails();
-  
+
   langBtns.forEach(b => b.classList.toggle("active", b.dataset.lang === lang));
-  try { localStorage.setItem("aa-lang", lang); } catch (e) {}
+  try { localStorage.setItem("aa-lang", lang); } catch (e) { }
 }
 
 document.getElementById("langToggle").addEventListener("click", () => {
@@ -290,7 +292,7 @@ document.getElementById("langToggle").addEventListener("click", () => {
 try {
   const saved = localStorage.getItem("aa-lang");
   if (saved && saved !== "en") applyLang(saved);
-} catch (e) {}
+} catch (e) { }
 
 /* ─────────── nav scroll + mobile menu ─────────── */
 const nav = document.getElementById("nav");
@@ -315,11 +317,6 @@ navLinks.querySelectorAll("a").forEach(a =>
 );
 
 /* ─────────── marquee: duplicate track for seamless loop ─────────── */
-const track1 = document.getElementById("marqueeTrack1");
-if (track1) track1.innerHTML += track1.innerHTML;
-const track2 = document.getElementById("marqueeTrack2");
-if (track2) track2.innerHTML += track2.innerHTML;
-
 /* ─────────── reveal on scroll ─────────── */
 const revealObserver = new IntersectionObserver(
   entries => {
@@ -384,21 +381,21 @@ document.getElementById("enqForm").addEventListener("submit", e => {
   const lines =
     currentLang === "hi"
       ? [
-          "नमस्ते आदित्य एजेंसी! 🙏",
-          `नाम: ${name}`,
-          village ? `गाँव/शहर: ${village}` : "",
-          `ज़रूरत: ${need}`,
-          msg ? `संदेश: ${msg}` : "",
-          "कृपया कीमत और उपलब्धता बताएँ।"
-        ]
+        "नमस्ते आदित्य एजेंसी! 🙏",
+        `नाम: ${name}`,
+        village ? `गाँव/शहर: ${village}` : "",
+        `ज़रूरत: ${need}`,
+        msg ? `संदेश: ${msg}` : "",
+        "कृपया कीमत और उपलब्धता बताएँ।"
+      ]
       : [
-          "Namaste Aditya Agency! 🙏",
-          `Name: ${name}`,
-          village ? `Village/Town: ${village}` : "",
-          `Requirement: ${need}`,
-          msg ? `Message: ${msg}` : "",
-          "Please share price and availability."
-        ];
+        "Namaste Aditya Agency! 🙏",
+        `Name: ${name}`,
+        village ? `Village/Town: ${village}` : "",
+        `Requirement: ${need}`,
+        msg ? `Message: ${msg}` : "",
+        "Please share price and availability."
+      ];
 
   const text = lines.filter(Boolean).join("\n");
   window.open(`https://wa.me/${WA_NUMBER}?text=${encodeURIComponent(text)}`, "_blank", "noopener");
