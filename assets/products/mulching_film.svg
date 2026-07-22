@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="100%" height="100%">
+      <rect width="400" height="300" fill="#f0f7f4"/>
+      <g transform="translate(70, 50)">
+        <!-- Silver/Black Mulching Sheet Roll -->
+        <rect x="30" y="60" width="200" height="70" rx="8" fill="#334155" stroke="#1e293b" stroke-width="3"/>
+        <ellipse cx="230" cy="95" rx="15" ry="35" fill="#64748b"/>
+        <!-- Plant Holes -->
+        <circle cx="70" cy="95" r="10" fill="#15803d"/>
+        <circle cx="130" cy="95" r="10" fill="#15803d"/>
+        <circle cx="190" cy="95" r="10" fill="#15803d"/>
+        <!-- Label -->
+        <rect x="40" y="155" width="180" height="26" rx="13" fill="#15803d"/>
+        <text x="130" y="172" font-family="sans-serif" font-size="12" font-weight="bold" fill="#ffffff" text-anchor="middle">AGRICULTURAL MULCHING FILM</text>
+      </g>
+    </svg>

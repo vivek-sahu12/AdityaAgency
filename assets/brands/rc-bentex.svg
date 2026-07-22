@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" width="200" height="60">
+    <rect width="200" height="60" fill="none"/>
+    <g transform="translate(15, 14)">
+      <rect x="0" y="6" width="24" height="24" fill="#dc2626" rx="3"/>
+      <text x="4" y="23" font-family="'Outfit', sans-serif" font-weight="800" font-size="14" fill="#ffffff">RC</text>
+      <text x="30" y="24" font-family="'Outfit', sans-serif" font-weight="900" font-size="20" fill="#991b1b">BENTEX</text>
+    </g>
+  </svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" width="200" height="60">
+    <rect width="200" height="60" fill="none"/>
+    <g transform="translate(20, 10)">
+      <rect x="0" y="5" width="40" height="30" fill="#1e3a8a" rx="4"/>
+      <text x="6" y="28" font-family="'Outfit', sans-serif" font-weight="900" font-size="22" fill="#ffffff">L&amp;T</text>
+      <text x="48" y="26" font-family="'Outfit', sans-serif" font-weight="700" font-size="16" fill="#1e293b">Larsen &amp; Toubro</text>
+    </g>
+  </svg>

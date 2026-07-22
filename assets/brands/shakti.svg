@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" width="200" height="60">
+    <rect width="200" height="60" fill="none"/>
+    <g transform="translate(15, 14)">
+      <path d="M5 25 L15 5 L25 25 Z M10 25 L15 15 L20 25 Z" fill="#16a34a"/>
+      <text x="32" y="24" font-family="'Outfit', sans-serif" font-weight="900" font-size="24" fill="#15803d" letter-spacing="1">SHAKTI</text>
+      <text x="32" y="34" font-family="'Plus Jakarta Sans', sans-serif" font-weight="600" font-size="8" fill="#475569" letter-spacing="1">PUMPS</text>
+    </g>
+  </svg>

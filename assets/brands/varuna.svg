@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" width="200" height="60">
+    <rect width="200" height="60" fill="none"/>
+    <g transform="translate(15, 12)">
+      <path d="M0 5 L12 32 L24 5 Z" fill="#2563eb"/>
+      <path d="M14 5 L24 26 L34 5 Z" fill="#3b82f6" opacity="0.8"/>
+      <text x="40" y="26" font-family="'Outfit', sans-serif" font-weight="800" font-size="24" fill="#1e3a8a">VARUNA</text>
+      <text x="40" y="36" font-family="'Plus Jakarta Sans', sans-serif" font-weight="600" font-size="8" fill="#64748b" letter-spacing="2">PUMPS</text>
+    </g>
+  </svg>

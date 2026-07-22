@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" width="200" height="60">
+    <rect width="200" height="60" fill="none"/>
+    <g transform="translate(12, 10)">
+      <circle cx="18" cy="20" r="14" fill="#16a34a"/>
+      <path d="M18 10 C 22 15, 22 25, 18 30 C 14 25, 14 15, 18 10 Z" fill="#ffffff"/>
+      <text x="38" y="22" font-family="'Outfit', 'Arial', sans-serif" font-weight="800" font-size="20" fill="#15803d">JAIN</text>
+      <text x="38" y="34" font-family="'Plus Jakarta Sans', sans-serif" font-weight="600" font-size="10" fill="#475569" letter-spacing="1">IRRIGATION</text>
+    </g>
+  </svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" width="200" height="60">
+    <rect width="200" height="60" fill="none"/>
+    <g transform="translate(20, 14)">
+      <polygon points="12,4 20,28 4,28" fill="#7c3aed"/>
+      <text x="28" y="24" font-family="'Outfit', sans-serif" font-weight="800" font-size="22" fill="#6d28d9">DHRUVI</text>
+    </g>
+  </svg>

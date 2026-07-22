@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" width="200" height="60">
+    <rect width="200" height="60" fill="none"/>
+    <g transform="translate(10, 12)">
+      <circle cx="18" cy="18" r="12" fill="#ea580c"/>
+      <path d="M18 2 L18 6 M18 30 L18 34 M2 18 L6 18 M30 18 L34 18" stroke="#ea580c" stroke-width="3"/>
+      <text x="38" y="20" font-family="'Outfit', sans-serif" font-weight="800" font-size="16" fill="#c2410c">PRAKASH</text>
+      <text x="38" y="32" font-family="'Outfit', sans-serif" font-weight="900" font-size="16" fill="#9a3412">SURYA</text>
+    </g>
+  </svg>

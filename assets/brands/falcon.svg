@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" width="200" height="60">
+    <rect width="200" height="60" fill="none"/>
+    <g transform="translate(15, 15)">
+      <path d="M0 25 L15 5 L30 25 L20 25 L15 15 L10 25 Z" fill="#b91c1c"/>
+      <text x="35" y="24" font-family="'Outfit', sans-serif" font-weight="900" font-size="22" fill="#991b1b" letter-spacing="1">FALCON</text>
+    </g>
+  </svg>

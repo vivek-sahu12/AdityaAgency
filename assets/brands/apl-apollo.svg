@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" width="200" height="60">
+    <rect width="200" height="60" fill="none"/>
+    <g transform="translate(15, 15)">
+      <text x="0" y="26" font-family="'Outfit', sans-serif" font-weight="900" font-size="26" fill="#dc2626">APL</text>
+      <text x="62" y="26" font-family="'Outfit', sans-serif" font-weight="800" font-size="22" fill="#1e293b">APOLLO</text>
+      <rect x="0" y="30" width="160" height="3" fill="#dc2626"/>
+    </g>
+  </svg>

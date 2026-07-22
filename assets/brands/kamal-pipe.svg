@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" width="200" height="60">
+    <rect width="200" height="60" fill="none"/>
+    <g transform="translate(15, 14)">
+      <path d="M12 5 C 16 14, 16 22, 12 28 C 8 22, 8 14, 12 5 Z" fill="#db2777"/>
+      <text x="28" y="22" font-family="'Outfit', sans-serif" font-weight="900" font-size="20" fill="#be185d">KAMAL</text>
+      <text x="28" y="32" font-family="'Plus Jakarta Sans', sans-serif" font-weight="700" font-size="9" fill="#475569" letter-spacing="1">PIPES</text>
+    </g>
+  </svg>

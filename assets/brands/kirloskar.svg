@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" width="200" height="60">
+    <rect width="200" height="60" fill="none"/>
+    <g transform="translate(10, 12)">
+      <path d="M0 0 L12 0 L12 36 L0 36 Z M14 18 L30 0 L44 0 L26 18 L46 36 L30 36 Z" fill="#0284c7"/>
+      <text x="48" y="28" font-family="'Outfit', 'Arial', sans-serif" font-weight="800" font-size="22" fill="#0f172a">Kirloskar</text>
+    </g>
+  </svg>

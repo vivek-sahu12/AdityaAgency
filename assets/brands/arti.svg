@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" width="200" height="60">
+    <rect width="200" height="60" fill="none"/>
+    <g transform="translate(20, 15)">
+      <text x="0" y="26" font-family="'Outfit', sans-serif" font-weight="900" font-size="28" fill="#4f46e5" letter-spacing="2">ARTI</text>
+      <circle cx="90" cy="18" r="4" fill="#f59e0b"/>
+    </g>
+  </svg>

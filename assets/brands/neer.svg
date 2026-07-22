@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" width="200" height="60">
+    <rect width="200" height="60" fill="none"/>
+    <g transform="translate(20, 14)">
+      <path d="M15 0 C22 10 25 18 15 28 C5 18 8 10 15 0 Z" fill="#0284c7"/>
+      <text x="32" y="25" font-family="'Outfit', sans-serif" font-weight="900" font-size="24" fill="#0369a1">NEER</text>
+    </g>
+  </svg>
